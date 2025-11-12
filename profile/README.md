@@ -1,7 +1,7 @@
 # //farbcode GmbH
-**english version below**
+** ⬇️ english version below ⬇️ **
 
-**Individuelle Websoftware, die Prozesse vereinfacht und Unternehmen voranbringt.**
+**Individuelle Websoftware, die Prozesse vereinfacht und Unternehmen voranbringt. 🚀**
 
 Wir digitalisieren manuelle, papierbasierte oder ineffiziente Abläufe. Unsere Lösungen entstehen mit klarem Blick auf echte Probleme und mit Leidenschaft für sauberen Code.
 Von Verwaltungsportalen bis zu nationalen Plattformen wie der [U18-Wahlsoftware](https://www.u18.org) oder dem oaseDigital Antragssystem [OASE BW](https://oase-bw.de).
@@ -21,9 +21,10 @@ Wir denken mit, übernehmen Verantwortung und liefern mehr, als erwartet wird.
 👉 [farbcode.net](https://farbcode.net)
 
 
-## //farbcode GmbH
+---
+## english version
 
-**Custom web software that simplifies processes and drives companies forward.**
+**Custom web software that simplifies processes and drives companies forward. 🚀**
 
 We transform manual, paper-based or inefficient workflows into digital solutions that actually work.
 From internal systems to national platforms like the [U18 election software](https://www.u18.org) or the [OASE BW](https://oase-bw.de) funding platform.
@@ -41,4 +42,15 @@ Over 20 years of experience and know-how, with more than 100 successfully comple
   Blockchain integration for Laravel apps. Designed for Polygon and Ethereum.
 
 👉 [farbcode.net](https://farbcode.net)
+
+---
+
+<a href="https://farbcode.net" target="_blank">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farbcodegmbh/laravel-evm/HEAD/art/farbcode-logo-dark.png">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farbcodegmbh/laravel-evm/HEAD/art/farbcode-logo-light.png">
+        <img width="300" alt="farbcode Logo" src="https://raw.githubusercontent.com/farbcodegmbh/laravel-evm/HEAD/art/farbcode-logo-light.png">
+    </picture>
+</a>
+
 
